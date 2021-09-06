@@ -12,3 +12,4 @@ More details about this project can be found in [report.pdf](report.pdf).
 ## Contributors
 
 * [Hersh Vakharia](https://github.com/hvak)
+* [Ali Baker](https://github.com/bakesbasha)
